@@ -1,0 +1,17 @@
+.jumbotron{
+    background-color: white;
+    border: 3px solid #f3969a;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    height: 500px;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+table td{
+   width: 33%;
+}
